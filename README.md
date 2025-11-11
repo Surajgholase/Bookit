@@ -165,7 +165,7 @@ You’re free to use, modify, and distribute it with attribution.
 
 ## 📬 Contact
 
-**Developer:** Suraj Gholase  
+**Developer:** Janba Gholase  
 **GitHub:** [Surajgholase](https://github.com/Surajgholase)  
 
 If you find this project helpful, consider giving it a ⭐ on GitHub!
